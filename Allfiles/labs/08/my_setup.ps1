@@ -1,4 +1,4 @@
-$sqlDatabaseName = "sqlz1uv9s2"
+$sqlDatabaseName = "sqlz1uv9s2_warehouse"
 $sqlUser = "SQLUser"
 $synapseWorkspace = "synapsez1uv9s2"
 $sqlPassword = "f8gAUpk!"
