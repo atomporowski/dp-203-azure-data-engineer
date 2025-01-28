@@ -1,7 +1,7 @@
 $sqlDatabaseName = "sqlz1uv9s2_warehouse"
 $sqlUser = "SQLUser"
 $synapseWorkspace = "synapsez1uv9s2"
-$sqlPassword = "f8gAUpk!"
+$sqlPassword = ""
 
 # Create database
 write-host "Creating the $sqlDatabaseName database..."
